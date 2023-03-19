@@ -1,2 +1,2 @@
 #!/bin/bash
-export $CFILE=-omain.c
+export $CFILE=-omain.c ; ./100-intel
